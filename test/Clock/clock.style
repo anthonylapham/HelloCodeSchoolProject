@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  var pomodoro;
+  var time;
+
+  function(timer){
+  pomodoro = getElementById(clock);
+  }
+
+});
